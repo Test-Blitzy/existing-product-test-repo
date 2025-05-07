@@ -1,0 +1,5 @@
+# Python version constraint
+# Python >=3.9,<4.0
+
+# Web framework
+Flask>=2.0.0,<3.0.0
